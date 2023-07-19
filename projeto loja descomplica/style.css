@@ -1,0 +1,27 @@
+
+
+.carousel-item img {
+    max-height: 500px; /* Defina a altura máxima desejada */
+    min-width: 200px; 
+  }
+  
+  #nosso-time .rounded-circle {
+    max-width: 250px; /* Defina a largura máxima desejada para as imagens */
+    height: auto; /* Mantém a proporção da imagem */
+  }
+
+  #nome{
+    display: inline;
+    padding: 30px;
+
+  }
+  #nome2{
+    display: inline;
+    padding: 60px;
+  }
+
+  #nome3{
+    display: inline;
+    padding: 40px;
+  }
+  
